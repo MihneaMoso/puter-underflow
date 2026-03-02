@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:re="http://purl.org/atompub/rank/1.0">
+    <title type="text">Recent Questions - Meta Stack Overflow</title>
+    <link rel="self" href="https://meta.stackoverflow.com/feeds" type="application/atom+xml" />
+    <link rel="alternate" href="https://meta.stackoverflow.com/questions" type="text/html" />
+    <subtitle>most recent 30 from meta.stackoverflow.com</subtitle>
+    <updated>2026-02-28T17:38:50Z</updated>
+    <id>https://meta.stackoverflow.com/feeds</id>
+    <creativeCommons:license>https://creativecommons.org/licenses/by-sa/4.0/rdf</creativeCommons:license> 
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438383</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-24</re:rank>
+        <title type="text">The new Stack Exchange favicon . .</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="feature-request" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="stack-exchange" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="favicon" />
+        <author>
+            <name>Trunk</name>
+            <uri>https://meta.stackoverflow.com/users/5826609</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438383/the-new-stack-exchange-favicon" />
+        <published>2026-02-28T00:45:45Z</published>
+        <updated>2026-02-28T00:45:45Z</updated>
+        <summary type="html">
+            &lt;p&gt;I think orange is too strong a color for a series of web forums dedicated to free sharing of knowledge.&lt;/p&gt;&#xA;&lt;p&gt;The blue is the right color for humanistic endeavor - we&#x27;re on the blue planet, after all, and we live in the age of aquarius (electric blue) . . .&lt;/p&gt;&#xA;&lt;p&gt;Let&#x27;s get the love back on SE.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438369</id>
+        <re:rank scheme="https://meta.stackoverflow.com">12</re:rank>
+        <title type="text">I&#x2019;m Jody, the Chief Product and Technology Officer at Stack Overflow, let&#x2019;s talk about the site redesign</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="company-update" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="featured" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Jody Bailey</name>
+            <uri>https://meta.stackoverflow.com/users/19215414</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438369/i-m-jody-the-chief-product-and-technology-officer-at-stack-overflow-let-s-talk" />
+        <published>2026-02-27T18:35:35Z</published>
+        <updated>2026-02-28T16:27:16Z</updated>
+        <summary type="html">
+            &lt;p&gt;I&#x2019;m Jody, the Chief Product and Technology Officer at Stack Overflow. I&#x2019;m here today to acknowledge and attempt to address the understandably strong reactions we&#x2019;ve seen from some community members in response to our recent announcement about the upcoming &lt;a href=&quot;https://meta.stackoverflow.com/questions/438177/new-site-design-and-philosophy-for-stack-overflow-starting-february-24-2026-at&quot;&gt;site redesign&lt;/a&gt; and to share some of the thinking behind these changes.&lt;/p&gt;&#xA;&lt;p&gt;Stack Overflow has been a cornerstone of the developer community for 17 years. It&#x2019;s a resource many of us have or do rely on daily. The fact that so many people care so deeply about this platform is a testament to the incredible community that has been built here. That said, the platform has also faced challenges in recent years, including a significant decline in user activity. This is something we cannot ignore, and it&#x2019;s a key driver behind the changes we&#x2019;re making.&lt;/p&gt;&#xA;&lt;p&gt;We know that, broadly speaking (and this is a gross oversimplification), this community is made up of two key groups: new users, who often struggle to find their footing, and experienced contributors, who feel they lack the tools to effectively curate and maintain the site. Our goal with this redesign is to minimize disruption to what works while modernizing the experience to serve both new users of the platform and the needs of long-standing, tenured members.&lt;/p&gt;&#xA;&lt;p&gt;I understand that change is hard and, in this case, complex, especially when it involves tools and workflows that many have relied on and seen work for years. When we talk about rethinking tooling, I want to be clear: this is not about taking things away just for the sake of change. It&#x2019;s about asking hard questions: what works, what doesn&#x2019;t, and how can we make things better?&lt;/p&gt;&#xA;&lt;p&gt;Many of the tools we have today were designed to address scaling challenges from over a decade ago. These challenges may no longer exist in the same way. With that in mind, our intent is to focus on tools that meet today&#x2019;s needs while taking a hard, analytical look at existing tools to see if they&#x2019;re still the right fit. While we may not have gotten it exactly right, I can assure you a lot of thought went into this redesign and direction.&lt;/p&gt;&#xA;&lt;p&gt;I also need to level set a bit: we&#x2019;re not trying to do away with the concept of removing unhelpful posts. We care deeply about curation and have dedicated substantial time and money to building tools for it, and we will continue to invest in this area.  But we do have to move away from a world where closing questions is essentially the catchall and default option for curation.  We believe we can create better, more precise, more surgical tools that can be used.  And we intend to work with all of you to make sure that curators here can take advantage of those tools.&lt;/p&gt;&#xA;&lt;p&gt;With that said, our attempts to communicate about the necessary change were imprecise and confused the situation. When we said &#x201C;no more closing questions,&#x201D; we failed to take into account that that phrase would mean something very different to you than to us.  For instance, we effectively draw a line between closing questions and deleting questions.  Deleting questions is definitely still in scope for us.&lt;/p&gt;&#xA;&lt;p&gt;Regarding feedback on quality, you are right &#x2013; there is still significant work to be done.  We intentionally chose to launch this in an early state.   We are, as Stack Overflow did in the distant past, intentionally relying on you to help us identify issues so we can more quickly address as many as necessary to reach an acceptable level of quality before moving the site to the new design.  I&#x2019;m here to listen and gather actionable feedback. I want to understand what&#x2019;s most important to you, what you feel makes the site unusable, and how we can improve the tools you rely on. Specifically, I&#x2019;d love your thoughts (as answers here) on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Of the design changes that we introduced this week, which design changes are hindering the work that you are doing, and how?&lt;/li&gt;&#xA;&lt;li&gt;The purpose of curation tools: Are they meeting your needs? How could they be improved?  - What are we missing?&lt;/li&gt;&#xA;&lt;li&gt;The necessity of all current tools: Are there tools you feel are redundant or no longer useful?&lt;/li&gt;&#xA;&lt;li&gt;Reconfiguring tools: Are there ways we can adapt existing tools to better serve the needs of the community?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I know these are big questions, and I don&#x2019;t expect all the answers right away. But I want to assure you that this is a conversation, not a one-way announcement. Your input will directly shape how we move forward.&lt;/p&gt;&#xA;&lt;p&gt;I understand if you feel frustrated or skeptical. My ask is that we have this conversation with a shared goal in mind: to make Stack Overflow the best it can be for everyone who uses it.&lt;/p&gt;&#xA;&lt;p&gt;Thank you for your time, your passion, and your commitment to this community. I&#x2019;m here to listen, learn, and work with you to ensure that the future of Stack Overflow is one we can all be proud of.&lt;/p&gt;&#xA;&lt;p&gt;Looking forward to hearing your thoughts.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438360</id>
+        <re:rank scheme="https://meta.stackoverflow.com">7</re:rank>
+        <title type="text">Tag excerpt incorrectly positioned and cannot be seen totally</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="tags" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="design" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="user-interface" />
+        <author>
+            <name>Black cat</name>
+            <uri>https://meta.stackoverflow.com/users/20643658</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438360/tag-excerpt-incorrectly-positioned-and-cannot-be-seen-totally" />
+        <published>2026-02-27T08:43:02Z</published>
+        <updated>2026-02-27T08:43:02Z</updated>
+        <summary type="html">
+            &lt;p&gt;In some cases if the &lt;strong&gt;tag&lt;/strong&gt; is in a special horizontal position, the top part is cut and not displayed. Seem, that instead of placing it below the &lt;strong&gt;tag&lt;/strong&gt;, it is positioned on the top, and another object overlays it.&lt;br /&gt;&#xA;Please see the below screenshot.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/e8Ip1Wzv.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/e8Ip1Wzv.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438351</id>
+        <re:rank scheme="https://meta.stackoverflow.com">5</re:rank>
+        <title type="text">Why was this purely Docker question reopened?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="specific-question" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="vote-to-reopen" />
+        <author>
+            <name>gre_gor</name>
+            <uri>https://meta.stackoverflow.com/users/794749</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438351/why-was-this-purely-docker-question-reopened" />
+        <published>2026-02-27T00:13:24Z</published>
+        <updated>2026-02-27T13:44:06Z</updated>
+        <summary type="html">
+            &lt;p&gt;Why was this question reopened?&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/q/35218194&quot;&gt;What is the &#x27;z&#x27; flag in docker container&#x27;s volumes-from option?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Docker isn&#x27;t a programming tool. And the question isn&#x27;t about anything programming specific.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438345</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-12</re:rank>
+        <title type="text">How to flag question deleted by Community Bot by mistake?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="specific-question" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="closed-questions" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="reopen-closed" />
+        <author>
+            <name>pippo1980</name>
+            <uri>https://meta.stackoverflow.com/users/9877065</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438345/how-to-flag-question-deleted-by-community-bot-by-mistake" />
+        <published>2026-02-26T20:15:12Z</published>
+        <updated>2026-02-27T17:33:46Z</updated>
+        <summary type="html">
+            &lt;p&gt;How to flag question deleted by Community Bot by mistake ?&lt;/p&gt;&#xA;&lt;p&gt;Question was closed by three users but:&lt;/p&gt;&#xA;&lt;p&gt;I mean the question asks for a way to tweak a software and improve its usability&lt;/p&gt;&#xA;&lt;p&gt;but was closed because of&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This question is seeking recommendations for software libraries,&#xA;tutorials, tools, books,&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;so it was wrongly closed.&lt;/p&gt;&#xA;&lt;p&gt;Question is &lt;a href=&quot;https://stackoverflow.com/questions/77358063/pymol-how-to-insert-unnatural-amino-acid-in-a-protein&quot;&gt;Pymol how to insert unnatural amino acid in a protein [closed]&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Just to be clear&#xA;I didnt make the question , I spent time answering to it, now there is a new question that could benefit from that answer but cannot point to it because of the deletion&lt;/strong&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438336</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-94</re:rank>
+        <title type="text">What&#x2019;s Next for Curation</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="company-update" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="featured" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="close-reasons" />
+        <author>
+            <name>Hoid</name>
+            <uri>https://meta.stackoverflow.com/users/16680213</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438336/what-s-next-for-curation" />
+        <published>2026-02-26T19:39:35Z</published>
+        <updated>2026-02-28T12:16:13Z</updated>
+        <summary type="html">
+            &lt;p&gt;&lt;a href=&quot;https://meta.stackoverflow.com/questions/438177/new-site-design-and-philosophy-for-stack-overflow-starting-february-24-2026-at?cb=1&quot;&gt;Last week in the beta announcement&lt;/a&gt;, we mentioned that we had a desire to move away from question closure as a primary curation tool. While closure was an effective tool to manage higher volume in the past, we believe it is now a significant cause of friction to authors and curators.  We won&#x2019;t rehash it too much. We think the argument we made in our &lt;a href=&quot;https://meta.stackoverflow.com/questions/437757/modernizing-curation-a-proposal-for-the-workshop-and-the-archive&quot;&gt;modernizing curation proposal covers it well enough.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2&gt;Proposed Shifts in Curation&lt;/h2&gt;&#xA;&lt;p&gt;We want to take each close reason and move it towards a curation workflow that fits in more reasonably with Stack Overflow today. We want to differentiate &#x201C;this content doesn&#x2019;t belong on Stack Overflow&#x201D; from &#x201C;this isn&#x2019;t a question I am interested in,&#x201D; which is different from &#x201C;this is high-quality content that is worth promoting&#x201D;. We want tooling that lets those signals exist independently, and we want curator input on what that actually looks like in practice.&lt;/p&gt;&#xA;&lt;p&gt;Treat the below ideas as thought exercises rather than what we are married to and plan to implement. In addition, we would also be adjusting review queues to work alongside these flows depending on what changes. Here is our current thinking with each of these:&lt;/p&gt;&#xA;&lt;h3&gt;Needs more focus / low quality&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; We want to decouple quality signaling from the asker&#x2019;s ability to receive an answer. We want to create more space to ask questions that may not be perfectly formed on their first attempt.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Idea:&lt;/strong&gt; We are thinking about structured downvote reasons. Preset categories that provide context beyond a negative score. We are looking to adapt the successful feedback mechanisms from the Staging Ground to work at the scale of the main site.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Curator Experience:&lt;/strong&gt; To prevent &#x201C;review fatigue&#x201D; we want to think about different viewing modes. Curators could toggle between seeing questions that have not received any feedback or hiding questions that have already been addressed by other curators. This would lead to the question eventually being deleted if no efforts were ever made to improve it by the author.&lt;/p&gt;&#xA;&lt;h3&gt;Opinion-based&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; We recognize that well-formed, opinion-based questions have value, but we also know that not everyone cares for them. Our goal is to make this content opt-in/out based on individual preference.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Idea:&lt;/strong&gt; There could be a classification layer using categories using question types like &#x201C;Tooling Recommendation,&#x201D; &#x201C;how do I,&#x201D; or &#x201C;implementation guidance.&amp;quot; These would allow users to ignore, follow, etc., just like other tags, and only see content that they are interested in.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Curator Experience:&lt;/strong&gt; Rather than voting to close, curators could instead have the ability to reclassify the posts. This could mimic the workflow of changing tags on a post that we already have.&lt;/p&gt;&#xA;&lt;h3&gt;Duplicates&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We want to prevent the &#x201C;hard lock&#x201D; failure mode where questions are closed against a &#x201C;duplicate&#x201D; that may not actually solve the asker&#x2019;s specific problem.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Idea:&lt;/strong&gt; Instead of just putting a post notice on a duplicate question, we would also offer a curation flow where one or more of the canonical duplicate&#x2019;s answers would appear directly on the duplicate question, with added context if needed. Then the asker would still have the opportunity to accept the proposed duplicate answer or leave context explaining why it doesn&#x2019;t answer their question. We would also want to think of a feedback loop for the question author to accept that proposed duplicate answer before the question is locked to new answers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Curator Experience:&lt;/strong&gt; This creates a much stronger feedback signal. Rather than wondering if your duplicate suggestion was helpful, you receive a clear data point. If an author does not accept the proposed answer, it signals to curators that the question may have a unique nuance that requests a new distinct answer.&lt;/p&gt;&#xA;&lt;h3&gt;Off-topic&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Maintain Stack Overflow&#x2019;s focus on programming without making &#x201C;Off-Topic&#x201D; feel like a shut door for users with legitimate technical questions that may belong elsewhere.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Idea:&lt;/strong&gt; Our long-term vision is smarter backend routing. A system that identifies where a question would be best suited, whether that be adding certain tags or considering other Stack Exchange sites. In the near term, we are consolidating off-topic flags into the existing flag workflow. This reduces the number of clicks and menus you have to navigate and removes the friction and redundancy currently found in the off-topic sub-menus.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Curator Experience:&lt;/strong&gt;  Curators would be able to monitor this system and implement mechanisms to better fine-tune the decision-making process. When necessary, they would also be able to intervene in the event of something being routed somewhere incorrectly.&lt;/p&gt;&#xA;&lt;h2&gt;Next Steps&lt;/h2&gt;&#xA;&lt;p&gt;We are early in the development life cycle with these changes, and we&#x27;re actively looking for experienced community members to pressure-test these ideas in a workshop type of way with the product manager and designer that has been working on close reasons. If you want to be involved in shaping the tooling, please let us know on this post, and we will follow up with you.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438331</id>
+        <re:rank scheme="https://meta.stackoverflow.com">7</re:rank>
+        <title type="text">Questions posted on beta are not visible in feeds on main site. How should I watch my tag of interest at one place?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="questions" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="tag-watching" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="open-ended-questions" />
+        <author>
+            <name>Amit Joshi</name>
+            <uri>https://meta.stackoverflow.com/users/5779732</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438331/questions-posted-on-beta-are-not-visible-in-feeds-on-main-site-how-should-i-wat" />
+        <published>2026-02-26T13:43:58Z</published>
+        <updated>2026-02-27T07:41:07Z</updated>
+        <summary type="html">
+            &lt;p&gt;I recently observed that one of my Custom Filters was showing blue circle, indicating that there is new question or activity in the tag I am watching. I clicked on it to see the activity, but there was none. This happened again. Just being curious, I went to beta site; and found a new question in the tag I am following. But, this question is not visible on main site. It is not visible in Feeds. It is not visible even if I search with the said tag.&lt;/p&gt;&#xA;&lt;p&gt;I then went back to beta and posted an answer there (or should I say &amp;quot;I &#x27;discussed&#x27; there&amp;quot;?). The answer I posted (on beta) is visible in my Profile under Answers tab; thanks. When I click on the answer, I can see the complete Q/A on main site; that&#x27;s a relief because I can use all the features on main site.&lt;/p&gt;&#xA;&lt;p&gt;As the questions posted on beta are not visible on main site Feeds, it is hard for the user to watch the tags they are interested in. It is not productive for any user to watch two sites to participate and contribute in the tags they are watching.&lt;/p&gt;&#xA;&lt;p&gt;Even though, beta is with limited features, data must be common and consistent. Question and Answer is core of the data on Stack Overflow and it must be visible on both the sites immediately.&lt;br&gt;&#xA;Without that, how should I watch my tag of interest at one place?&lt;/p&gt;&#xA;&lt;p&gt;The question: &lt;a href=&quot;https://stackoverflow.com/q/79896826&quot;&gt;In HL7 V2.5.1 Original Mode Acknowledgement, what is the meaning of each Acknowledgement Status Code?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This tag is not visible if you search on main:&lt;br&gt;&#xA;&lt;a href=&quot;https://stackoverflow.com/questions/tagged/hl7&quot;&gt;https://stackoverflow.com/questions/tagged/hl7&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438328</id>
+        <re:rank scheme="https://meta.stackoverflow.com">11</re:rank>
+        <title type="text">Make the new UI more compact</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="feature-request" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="user-interface" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Franck Dernoncourt</name>
+            <uri>https://meta.stackoverflow.com/users/395857</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438328/make-the-new-ui-more-compact" />
+        <published>2026-02-26T08:01:53Z</published>
+        <updated>2026-02-26T17:00:22Z</updated>
+        <summary type="html">
+            &lt;p&gt;The new design is less compact than the old design.&lt;/p&gt;&#xA;&lt;p&gt;New design:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/EQBoo7ZP.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/EQBoo7ZP.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Old design:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/Wi2P62pw.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/Wi2P62pw.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Feature request: Could the new design be made more compact?&lt;/p&gt;&#xA;&lt;p&gt;It&#x27;s the second time that the new UI makes the interface less compact: &lt;a href=&quot;https://meta.stackexchange.com/q/229898/178179&quot;&gt;Display density: how about a compact view?&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438321</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-5</re:rank>
+        <title type="text">The link to Staging Ground is missing in the Beta left navigation [duplicate]</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-bydesign" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="staging-ground" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="left-navigation" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Wicket</name>
+            <uri>https://meta.stackoverflow.com/users/1595451</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438321/the-link-to-staging-ground-is-missing-in-the-beta-left-navigation" />
+        <published>2026-02-26T00:06:00Z</published>
+        <updated>2026-02-26T01:42:34Z</updated>
+        <summary type="html">
+            &lt;p&gt;The link to Staging Ground is missing in Beta. I think it should be included in the left navigation under the &lt;strong&gt;Content&lt;/strong&gt; section.&lt;/p&gt;&#xA;&lt;div class=&quot;s-table-container&quot;&gt;&lt;table class=&quot;s-table&quot;&gt;&#xA;&lt;thead&gt;&#xA;&lt;tr&gt;&#xA;&lt;th&gt;Classic&lt;/th&gt;&#xA;&lt;th&gt;Beta&lt;/th&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/thead&gt;&#xA;&lt;tbody&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;&lt;a href=&quot;https://i.sstatic.net/8M2WCD5T.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/8M2WCD5T.png&quot; alt=&quot;Left panel&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a href=&quot;https://i.sstatic.net/V0Y13N3t.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/V0Y13N3t.png&quot; alt=&quot;Left panel&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/tbody&gt;&#xA;&lt;/table&gt;&lt;/div&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438320</id>
+        <re:rank scheme="https://meta.stackoverflow.com">24</re:rank>
+        <title type="text">Duplicate questions shows the answer box and allow to post an answer</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="duplicate-questions" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Wicket</name>
+            <uri>https://meta.stackoverflow.com/users/1595451</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438320/duplicate-questions-shows-the-answer-box-and-allow-to-post-an-answer" />
+        <published>2026-02-25T23:01:44Z</published>
+        <updated>2026-02-26T18:13:35Z</updated>
+        <summary type="html">
+            &lt;p&gt;Post notice for a duplicate question&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/3KjSmzdl.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/3KjSmzdl.png&quot; alt=&quot;Post notice&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This question may already have answers:&lt;br /&gt;&#xA;Create copy of sheet and rename with todays date &#x2B;4 days (2 answers)&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Answer box&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/zOGrIrg5.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/zOGrIrg5.png&quot; alt=&quot;Answer box&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For testing purposes, I posted an answer with random characters and deleted it immediately. In the Beta, I can&#x27;t see the deleted answer, but in Classic shows as follows&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/0b4KNhbC.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/0b4KNhbC.png&quot; alt=&quot;Deleted answer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr /&gt;&#xA;&lt;p&gt;This is not only happening to questions closed as duplicates. At least this looks like it&#x27;s happening to a question that was closed because it needs debugging details. This time I didn&#x27;t post an answer.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438318</id>
+        <re:rank scheme="https://meta.stackoverflow.com">2</re:rank>
+        <title type="text">Beta &quot;Newest Questions&quot; page: subjective reactions</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>dbc</name>
+            <uri>https://meta.stackoverflow.com/users/3744182</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438318/beta-newest-questions-page-subjective-reactions" />
+        <published>2026-02-25T22:27:55Z</published>
+        <updated>2026-02-25T22:27:55Z</updated>
+        <summary type="html">
+            &lt;p&gt;I just tried the Beta version of the &amp;quot;Questions&amp;quot; page, and have a few subjective reactions:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;p&gt;Having quick links to other communities is a good thing.  However it&#x27;s my impression that most question that get closed as &amp;quot;off topic&amp;quot; for belonging elsewhere on the network actually should have been asked at Super User -- so I&#x27;d add a link to that community.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;I notice you have removed our current reputation from the header line.  I miss it that because it served as a cue as to whether I was logged in to that specific network site or not.  Additionally, it had a somewhat hidden use related to keyboard navigation.  Specifically, it afforded a fairly quick, backdoor way to access out inboxes via keyboard navigation:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Type the first few characters of the score, with &lt;a href=&quot;https://support.mozilla.org/en-US/kb/search-contents-current-page-text-or-links?redirectslug=Searching&#x2B;within&#x2B;a&#x2B;page&amp;amp;redirectlocale=en-US#w_find-automatically-while-typing-on-a-page&quot; rel=&quot;nofollow noreferrer&quot;&gt;&amp;quot;Search for text when you start typing&amp;quot;&lt;/a&gt; enabled (in Firefox).&lt;/li&gt;&#xA;&lt;li&gt;Hit &amp;quot;escape&amp;quot; to cancel searching.&lt;/li&gt;&#xA;&lt;li&gt;Tab to the inbox.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you&#x27;re going to remove this trick please introduce some other way to quickly access the inbox via keyboard navigation.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;I can&#x27;t even hazard a guess as to what that &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/en/5/5e/Qbert.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;Q*bert-looking&lt;/a&gt; icon in the upper right is supposed to mean:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/LhXU3e4d.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/LhXU3e4d.png&quot; alt=&quot;Q*bert-looking icon&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Even after clicking on it I &lt;strong&gt;still&lt;/strong&gt; can&#x27;t guess.  Maybe you need to give the drop-down menu a title, or implement a tooltip.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438317</id>
+        <re:rank scheme="https://meta.stackoverflow.com">7</re:rank>
+        <title type="text">Search terms are lost</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="search-box" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Wicket</name>
+            <uri>https://meta.stackoverflow.com/users/1595451</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438317/search-terms-are-lost" />
+        <published>2026-02-25T22:27:23Z</published>
+        <updated>2026-02-25T23:24:39Z</updated>
+        <summary type="html">
+            &lt;p&gt;The search box in beta.stackoverflow.com doesn&#x27;t keep the search terms.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Before&lt;/strong&gt;&lt;br /&gt;&#xA;This shows the search box containing the search term, in this case &lt;code&gt;[google-sheets]&lt;/code&gt;, before pressing &lt;kbd&gt;Enter&lt;/kbd&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/9liqv6KN.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/9liqv6KN.png&quot; alt=&quot;Before&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;After&lt;/strong&gt;&lt;br /&gt;&#xA;This shows the state of the search box after pressing &lt;kbd&gt;Enter&lt;/kbd&gt; in the previous state. Please note that there is no search terms.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/UQ4canED.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/UQ4canED.png&quot; alt=&quot;After&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438315</id>
+        <re:rank scheme="https://meta.stackoverflow.com">3</re:rank>
+        <title type="text">Beta &quot;Newest Questions&quot; page: questions are not aligned properly</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="design" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>dbc</name>
+            <uri>https://meta.stackoverflow.com/users/3744182</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438315/beta-newest-questions-page-questions-are-not-aligned-properly" />
+        <published>2026-02-25T22:17:34Z</published>
+        <updated>2026-02-25T23:24:57Z</updated>
+        <summary type="html">
+            &lt;p&gt;I just tried the Beta version of the &amp;quot;Questions&amp;quot; page, and have noticed what seems to be a fairly straightforward bug with how the list of questions is presented: the alignment of questions in the &amp;quot;Newest Questions&amp;quot; panel is completely broken.&lt;/p&gt;&#xA;&lt;p&gt;I would expect the title and text of the questions to be vertically aligned on their left border, but they are not, they are all inconsistently positioned.  This leaves the panel &lt;strong&gt;very&lt;/strong&gt; visually noisy and hard to parse.&lt;/p&gt;&#xA;&lt;p&gt;Below is a screen shot; I would expect the left edges of the questions to be vertically aligned where I drew the red line, as they are in the current &amp;quot;Questions&amp;quot; page:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/TMHSrXmJ.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/TMHSrXmJ.png&quot; alt=&quot;Screen shot showing poor alignment&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438312</id>
+        <re:rank scheme="https://meta.stackoverflow.com">6</re:rank>
+        <title type="text">Beta &quot;Newest Questions&quot; page: up and down arrow are broken</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="keyboard-shortcuts" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>dbc</name>
+            <uri>https://meta.stackoverflow.com/users/3744182</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438312/beta-newest-questions-page-up-and-down-arrow-are-broken" />
+        <published>2026-02-25T21:18:43Z</published>
+        <updated>2026-02-25T23:26:25Z</updated>
+        <summary type="html">
+            &lt;p&gt;I just tried the Beta version of the &amp;quot;Questions&amp;quot; page, and have noticed a fairly straightforward bug with keyboard navigation and scrolling.&lt;/p&gt;&#xA;&lt;p&gt;I use keyboard navigation a lot, but the up arrow, down arrow, page up and page down keys are initially broken -- I can&#x27;t use them to scroll down in the list of questions.&lt;/p&gt;&#xA;&lt;p&gt;I &lt;em&gt;think&lt;/em&gt; the problem here is that you have two separate scrolling panels -- the question panel and that other panel thing on the left.  Because I need to use large fonts, the other panel also gets a scrollbar, and so Firefox doesn&#x27;t know which one to scroll.&lt;/p&gt;&#xA;&lt;p&gt;Please don&#x27;t break such basic keyboard navigation features. For those of us who have multiple accessibility issues it&#x27;s important for them to work in a standard way.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/TMHSrXmJ.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/TMHSrXmJ.png&quot; alt=&quot;Screen shot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438310</id>
+        <re:rank scheme="https://meta.stackoverflow.com">5</re:rank>
+        <title type="text">CM Open Office Hours, Feb 26, 9-10am ET (2-3pm UTC) and 3-4pm ET (8-9pm UTC)</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+        <author>
+            <name>Dalmarus</name>
+            <uri>https://meta.stackoverflow.com/users/18937026</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438310/cm-open-office-hours-feb-26-9-10am-et-2-3pm-utc-and-3-4pm-et-8-9pm-utc" />
+        <published>2026-02-25T21:03:20Z</published>
+        <updated>2026-02-26T21:52:09Z</updated>
+        <summary type="html">
+            &lt;p&gt;Earlier today, we had &lt;a href=&quot;https://chat.stackoverflow.com/transcript/message/59101398#59101398&quot;&gt;a 1-hour session for folks to talk candidly&lt;/a&gt; about whatever site concerns they wanted to in The Meta Room. We&#x27;ll be doing two more tomorrow, Thursday February 26th. One at 9am ET (2pm UTC) and another at 3pm ET (8pm UTC) to give folks an opportunity to join.&lt;/p&gt;&#xA;&lt;p&gt;This isn&#x27;t about requesting feedback from you all (which has been given often, so thank you!). This is about being here to listen to whatever you&#x27;re concerned about on the site.&lt;/p&gt;&#xA;&lt;p&gt;Some folks may be past the point of wanting to talk. That&#x27;s okay. Others may have quite a lot to get off their chests. That&#x27;s what this is for, so you&#x27;re encouraged to come and do that.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438307</id>
+        <re:rank scheme="https://meta.stackoverflow.com">20</re:rank>
+        <title type="text">Question page: when am I reading a different answer?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="feature-request" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>David</name>
+            <uri>https://meta.stackoverflow.com/users/15016042</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438307/question-page-when-am-i-reading-a-different-answer" />
+        <published>2026-02-25T20:08:48Z</published>
+        <updated>2026-02-25T23:26:58Z</updated>
+        <summary type="html">
+            &lt;p&gt;I keep overlooking the difference between one answer and the next, and even between the question and its first answer. This isn&#x27;t surprising, given the decreased horizontal movement (e.g, indentation), font sizes, and background shades of the new design. To digest a question and its answers now requires more attention because critical context changes are harder to spot. It&#x27;s particularly egregious when the comment thread line appears to &amp;quot;point&amp;quot; to the following answer, which has no comments but is followed by a third answer. The comment thread &lt;em&gt;actually&lt;/em&gt; has no relationship to the second answer, and the third answer &lt;em&gt;isn&#x27;t&lt;/em&gt; (usually) a reply to the second answer.&lt;/p&gt;&#xA;&lt;p&gt;Could the start of a new answer be more clearly marked (e.g, with more than one line of white space, a line, or a prominent UI element)?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438301</id>
+        <re:rank scheme="https://meta.stackoverflow.com">65</re:rank>
+        <title type="text">Tell me about the good old days, papa</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="stack-overflow-history" />
+        <author>
+            <name>jpsmith</name>
+            <uri>https://meta.stackoverflow.com/users/12109788</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438301/tell-me-about-the-good-old-days-papa" />
+        <published>2026-02-25T17:36:05Z</published>
+        <updated>2026-02-27T04:40:31Z</updated>
+        <summary type="html">
+            &lt;p&gt;I like this site. As both a scientist and an educator, it has allowed me to do the two things I love the most: continue learning, and teach where I can.&lt;/p&gt;&#xA;&lt;p&gt;I joined Stack Overflow late and didn&#x27;t really consistently contribute until about 2022-2023. Since then, several changes have occurred that I didn&#x27;t agree with, but have either shrugged them off or I have gotten used to the change. However, with each change there seems to be a unique degree of anger and backlash from the community at large.&lt;/p&gt;&#xA;&lt;p&gt;Reading through the comments and MSO questions and answers of people who have been here much longer than me, this dissatisfaction seems proportionate and perfectly valid. I agree with many of the comments, though I personally don&#x27;t feel the same degree of anger and resentment. As a newcomer that does not feel the same level of betrayal, my sentiment is more, &amp;quot;this new feature sucks, whatever.&amp;quot;&lt;/p&gt;&#xA;&lt;p&gt;On the whole, many of the comments from longtime users seem to allude to a gilded age of Stack Overflow where folks were meaningfully listened to, the site was optimized for the user experience, and good questions and answers flowed like wine at a wedding. It sounds lovely, a coder&#x27;s utopia.&lt;/p&gt;&#xA;&lt;p&gt;Did this golden age of Stack Overflow really exist? I have been trying to answer this on my own, but it has been difficult for me to piece together the timeline of changes and discern between true dissatisfaction and user bias in a meaningful way. I feel a bit like Colonel Fawcett searching for the &lt;a href=&quot;https://en.wikipedia.org/wiki/Lost_City_of_Z&quot; rel=&quot;nofollow noreferrer&quot;&gt;Lost City of SO&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In a dispassionate, brief, and unbiased way, could some of the old timers explain to me the SO timeline, what Stack Overflow was like at its peak, what it felt like to be part of that community, and what key moments or changes incited and sustained its fall from grace? I know the widespread use of AI accelerated many issues, but my sense is that the dissatisfaction among long-time members long predates this.&lt;/p&gt;&#xA;&lt;p&gt;This is more-or-less a fact-finding request not intended to incite or rehash grievances well-described elsewhere. So, for a bit of levity, feel free to explain it like you are a grandparent telling their 5-year-old grandson a bedtime story about days of yonder.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438299</id>
+        <re:rank scheme="https://meta.stackoverflow.com">17</re:rank>
+        <title type="text">Syntax highlighting has poor contrast in dark mode</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="syntax-highlighting" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="dark-mode" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Bill T&#xFC;r stands with Ukraine</name>
+            <uri>https://meta.stackoverflow.com/users/3959259</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438299/syntax-highlighting-has-poor-contrast-in-dark-mode" />
+        <published>2026-02-25T16:14:20Z</published>
+        <updated>2026-02-26T15:33:58Z</updated>
+        <summary type="html">
+            &lt;p&gt;Code - at least for C#, I haven&#x27;t tried other tags yet - is barley readable due to poor contrast in dark mode on the redisigned pages:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/yArX6R0w.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/yArX6R0w.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&#x27;m using Firefox 148.0 on Windows 11&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438297</id>
+        <re:rank scheme="https://meta.stackoverflow.com">60</re:rank>
+        <title type="text">I tried the redesign beta and the experience was awful</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="user-interface" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="user-experience" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Thomas Owens</name>
+            <uri>https://meta.stackoverflow.com/users/572</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438297/i-tried-the-redesign-beta-and-the-experience-was-awful" />
+        <published>2026-02-25T14:51:04Z</published>
+        <updated>2026-02-25T20:39:52Z</updated>
+        <summary type="html">
+            &lt;p&gt;Right from the homepage, &amp;quot;AI Assist&amp;quot; is staring me in the face. When I go to Stack Overflow, I don&#x27;t want to necessarily start a chat with anyone. If I wanted to have a chat, I&#x27;d use Copilot (or similar) in my editor or IDE or open Gemini (or similar) in my browser, depending on the context. That doesn&#x27;t necessarily mean AI doesn&#x27;t have a place in content discovery. I can imagine several ways that AI can enhance search, from trying alternative search terms to something more like &lt;a href=&quot;https://blog.google/products-and-platforms/products/search/web-guide-labs/&quot; rel=&quot;nofollow noreferrer&quot;&gt;Google&#x27;s Web Guide&lt;/a&gt;. But a chat isn&#x27;t what I want at all. It pushes search to the upper right and &amp;quot;interesting posts&amp;quot; down the page, taking the two primary things I may want to do out of focus.&lt;/p&gt;&#xA;&lt;p&gt;The left sidebar is interesting.&lt;/p&gt;&#xA;&lt;p&gt;Organizing different types of content is useful. Personally, I&#x27;m open to alternative types of content on Stack Overflow and across the broader network. I&#x27;d like to see what can be done to enhance more open-ended discussions, collaborative wiki articles, or individually owned blog posts, in addition to the traditional/strict Q&amp;amp;A format.&lt;/p&gt;&#xA;&lt;p&gt;However, the order is a bit strange. I don&#x27;t know what the purpose of &amp;quot;Companies&amp;quot; is. Putting Questions. Putting Tags up so high is a bit weird, since there&#x27;s not much useful stuff you can do on the page it links to. I&#x27;d probably move Chat just below Questions, then put Tags. Blog is also weird, but that&#x27;s because I think the Blog doesn&#x27;t know what it&#x27;s supposed to be - is it a marketing blog, a technical interest blog curated by the company, a bit of both? It&#x27;s not the same kind of user-generated content as the other types of Content, though, so it is a bit out of place. Putting Collectives in the Communities section instead of the Content section is also a bit weird, since Collectives relate to the user-generated content on the site I&#x27;m on rather than content from outside sites.&lt;/p&gt;&#xA;&lt;p&gt;In the iconography, the icons for All Communities and the header icon for company type things are the same. That&#x27;s confusing since they are two separate concepts.&lt;/p&gt;&#xA;&lt;p&gt;Putting the Resources so far down the list is rough. It hides a lot of useful content. I&#x27;d move Help and Meta up to where Home and AI Assist are now. I&#x27;d move Users to the Content section, probably toward the bottom. On SO (and only SO), I&#x27;d also probably put Jobs in the Content section, especially since Companies are there. Saves need a place. Maybe in the top bar, though, next to the notifications, awards, and profile?&lt;/p&gt;&#xA;&lt;p&gt;Moving into the list of questions under &amp;quot;Interesting posts for you&amp;quot;, I find the structure of the question lists confusing. The most important parts are the title and body preview, but they appear below the metadata. I find myself getting confused. For the person listed, it&#x27;s not initially clear who they are. Are they the asker? The last answerer or editor? It looks like they are the asker. My question here is...why do I care about the person in this view? This is especially true when the last change is attributed to Community. I&#x27;d move the view counter below the votes and answer counters, remove the person&#x27;s name and reputation from this view, and place the last content change information next to the tags.&lt;/p&gt;&#xA;&lt;p&gt;When viewing mixed content, it should be more apparent what the content is. The difference between a Q&amp;amp;A and a discussion question isn&#x27;t that obvious from the home page view. There is the tag (e.g., &amp;quot;best practices&amp;quot;), but that&#x27;s not different enough. Some kind of more apparent visual distinction is key, and if more content types are added, it would be even more important since the view you end up on is different for these different content types.&lt;/p&gt;&#xA;&lt;p&gt;Clicking through to a question, it starts off OK.&lt;/p&gt;&#xA;&lt;p&gt;I would swap the title and metadata. I&#x27;d put the asker attribution, ask date, and edit date next to the tags. I&#x27;d also explicitly add who the last editor was, even if it is the author. I would move the views to a different location, next to the votes.&lt;/p&gt;&#xA;&lt;p&gt;Putting the vote at the bottom is interesting. At first, I didn&#x27;t like it. But it does make it harder to vote without reading the question, which is probably a good behavior change. I&#x27;d move the view information next to the votes. I&#x27;d also make the separation between the question and the answers more prominent. The text for &amp;quot;2 Answers&amp;quot; isn&#x27;t that different than the text for headers in the question.&lt;/p&gt;&#xA;&lt;p&gt;Removing question comments is a bad idea, especially without an alternative. Comments have two purposes when attached to questions. One is to identify potential issues or problems that prevent giving a good answer. The other is to provide tagential information that may be helpful in curation, such as identifying related questions (esp. on other network sites). There&#x27;s no way to do this kind of thing now, and that hurts. This would be unacceptable on other sites in the network and would be a huge show-stopper.&lt;/p&gt;&#xA;&lt;p&gt;The distinction between answers and answer comments could also be bigger. Yes, they are indented, but it&#x27;s not obvious enough when quickly scrolling. Better separation between answers could help, too. I&#x27;m not sure if there would need to be changes to both the comments and answers, but scrolling through makes it hard to see where one answer ends, comments begin, and the next answer begins. The share for comments should be removed as they are transient for Q&amp;amp;A. I&#x27;d also remove nested comments in Q&amp;amp;A. Again, Q&amp;amp;A needs to be about the question and strict answers. Exploring other content formats could be useful, but doesn&#x27;t need to influence Q&amp;amp;A as much.&lt;/p&gt;&#xA;&lt;p&gt;I&#x27;ve left similar feedback before, but the question type needs to be rethought. I&#x27;m not opposed to the idea of &amp;quot;Q&amp;amp;A&amp;quot;, &amp;quot;Discussion&amp;quot;, and other content types. But &amp;quot;tooling recommendation&amp;quot; steps all over the &lt;a href=&quot;https://softwarerecs.stackexchange.com/&quot;&gt;Software Recommendations&lt;/a&gt; and &lt;a href=&quot;https://hardwarerecs.stackexchange.com/&quot;&gt;Hardware Recommendation&lt;/a&gt; communities, each of which have developed strong guidelines for high quality content in their respective domains. &amp;quot;Best practice&amp;quot; doesn&#x27;t acknowledge that &lt;a href=&quot;https://en.wikipedia.org/wiki/Cynefin_framework&quot; rel=&quot;nofollow noreferrer&quot;&gt;the complexity of software development&lt;/a&gt; forces it into a situation where there are context-sensitive good practices instead of best practices, as well as starting to step on the toes of &lt;a href=&quot;https://softwareengineering.stackexchange.com/&quot;&gt;Software Engineering&lt;/a&gt;.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438290</id>
+        <re:rank scheme="https://meta.stackoverflow.com">14</re:rank>
+        <title type="text">Stack Overflow beta does not show deleted posts</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-planned" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Heiko Thei&#xDF;en</name>
+            <uri>https://meta.stackoverflow.com/users/16462950</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438290/stack-overflow-beta-does-not-show-deleted-posts" />
+        <published>2026-02-25T12:32:45Z</published>
+        <updated>2026-02-25T17:32:02Z</updated>
+        <summary type="html">
+            &lt;p&gt;I can view my deleted question at &lt;a href=&quot;https://stackoverflow.com/questions/79346222/do-browsers-ever-make-chunked-requests&quot;&gt;https://stackoverflow.com/questions/79346222/do-browsers-ever-make-chunked-requests&lt;/a&gt;, but not at &lt;a href=&quot;https://beta.stackoverflow.com/questions/79346222/do-browsers-ever-make-chunked-requests&quot;&gt;https://beta.stackoverflow.com/questions/79346222/do-browsers-ever-make-chunked-requests&lt;/a&gt; (which returns 404 Not Found).&lt;/p&gt;&#xA;&lt;p&gt;The latter link is shown, however, in the &lt;a href=&quot;https://beta.stackoverflow.com/users/deleted-questions/16462950&quot;&gt;&amp;quot;Deleted Questions&amp;quot; list&lt;/a&gt;.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438284</id>
+        <re:rank scheme="https://meta.stackoverflow.com">123</re:rank>
+        <title type="text">Please return orange to the SO logo on the site banner</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="welcoming" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="logo" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>einpoklum</name>
+            <uri>https://meta.stackoverflow.com/users/1593077</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438284/please-return-orange-to-the-so-logo-on-the-site-banner" />
+        <published>2026-02-25T10:18:53Z</published>
+        <updated>2026-02-26T15:17:46Z</updated>
+        <summary type="html">
+            &lt;p&gt;The angling lines on the StackOverflow logo should go back to being orange. This change is not an improvement, particularly the monochromaticity aspect of it. (I&#x27;m not such a fan of the new favicon either but I don&#x27;t mind it that much.)&lt;/p&gt;&#xA;&lt;p&gt;In fact, I don&#x27;t see why it makes sense to remove the bottom &#x27;container&#x27; either. Our previous graphic (below) is cheerful and memorable. The new graphic is morbid and forgettable. To use a loaded phrase: The new graphic is less welcoming...&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/GsF1t5vQ.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/GsF1t5vQ.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438283</id>
+        <re:rank scheme="https://meta.stackoverflow.com">35</re:rank>
+        <title type="text">If you&#x27;re going to force the Stacks Editor on your users, can it finally have parity with the old editor?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="feature-request" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="stacks-editor" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Thom A</name>
+            <uri>https://meta.stackoverflow.com/users/2029983</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438283/if-youre-going-to-force-the-stacks-editor-on-your-users-can-it-finally-have-pa" />
+        <published>2026-02-25T09:09:50Z</published>
+        <updated>2026-02-26T19:48:48Z</updated>
+        <summary type="html">
+            &lt;p&gt;It seems that on the Beta site, when you are answering a question, you have the choice of the Stacks Editor, sans Markdown with Preview Mode, or... Oh, that&#x27;s the end of the list. This is a TERRIBLE decision.&lt;br /&gt;&#xA;&lt;a href=&quot;https://i.sstatic.net/zQKctA5n.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/zQKctA5n.png&quot; alt=&quot;Image of the Stacks Editor with a freehand red arrow pointing at where the &amp;quot;Markdown with Preview Mode&amp;quot; should be shown and badly written freehand red text stating &amp;quot;Markdown w/ preview where?&amp;quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Stacks Editor has been feature lacking, and buggy, for &lt;em&gt;years&lt;/em&gt; and those bugs have no sign of being fixed. Why, therefore, are you forcing users to use this buggy editor in your new site? Why is it still so feature lacking?&lt;/p&gt;&#xA;&lt;p&gt;Even when the Stacks Editor does have the Markdown with Preview Mode, when asking a question, it&#x27;s not even rendering correctly:&lt;br /&gt;&#xA;&lt;a href=&quot;https://i.sstatic.net/YjaOm22x.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/YjaOm22x.png&quot; alt=&quot;Image showing that the italics and bold markdown, and underline markup aren&#x27;t rendered&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Worse, if I switch to Rich Text and back the ancient bug of escaping the HTML is &lt;em&gt;still&lt;/em&gt; there: &lt;code&gt;&amp;lt;u&amp;gt;&lt;/code&gt; becomes &lt;code&gt;\&amp;lt;u\&amp;gt;&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Even worserer* is that the Stacks Editor &lt;em&gt;defaults&lt;/em&gt; to Rich Text (which is the worst mode in my opinion) by default. If you change the mode and refresh you are back in Rich Text mode, meaning that it will quite happily break your content. Is that truly &amp;quot;by design&amp;quot;?&lt;/p&gt;&#xA;&lt;p&gt;The beta site needs a way to use the old, feature rich, working editor. You, Stack Inc, needs to put some &lt;em&gt;serious&lt;/em&gt; time into actually getting the Stacks Editor to work; it&#x27;s still a broken mess and is not appropriate for release (without an opt out option).&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438274</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-4</re:rank>
+        <title type="text">Can&#x27;t reply to a tooling question in either beta or classic, 3 browsers</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="open-ended-questions" />
+        <author>
+            <name>Super Jade</name>
+            <uri>https://meta.stackoverflow.com/users/5587356</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438274/cant-reply-to-a-tooling-question-in-either-beta-or-classic-3-browsers" />
+        <published>2026-02-25T05:45:36Z</published>
+        <updated>2026-02-25T23:30:36Z</updated>
+        <summary type="html">
+            &lt;p&gt;I&#x27;d like to reply to a &lt;a href=&quot;https://beta.stackoverflow.com/questions/79894947/visual-studio-documentation-reduce-intellisense-list-spacing&quot;&gt;question&lt;/a&gt; (Beta link) on the main site marked &amp;quot;Tooling&amp;quot;. I typed my response in the textbox, and hit Reply. Nothing happened.&lt;/p&gt;&#xA;&lt;p&gt;I tried switching to the beta site. Still nothing. I switched from Firefox to Edge to Chrome, and tried both the classic and the beta site. Still nothing. No console errors in Chrome from the button press, but many from the page loading.&lt;/p&gt;&#xA;&lt;p&gt;Please take a look!&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438260</id>
+        <re:rank scheme="https://meta.stackoverflow.com">23</re:rank>
+        <title type="text">Is there a way to hide the &quot;Try new site BETA&quot; button?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Thom A</name>
+            <uri>https://meta.stackoverflow.com/users/2029983</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438260/is-there-a-way-to-hide-the-try-new-site-beta-button" />
+        <published>2026-02-24T21:46:01Z</published>
+        <updated>2026-02-25T16:59:26Z</updated>
+        <summary type="html">
+            &lt;p&gt;The new button on mobile is incredibly large and is taking up a most of the the top bar. This, especially as a mod who has extra buttons, is actually really annoying, there are now only &lt;em&gt;four&lt;/em&gt; buttons visible. Prior to the button being added, and the change to the logo, it used to be eight.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/BB2lWczu.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/BB2lWczu.png&quot; alt=&quot;image of top bar on Stack Overflow&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/X9zD2cgW.jpg&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/X9zD2cgW.jpg&quot; alt=&quot;Image of the top bar on Stack Overflow prior to today&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This means that when I load a page, I can&#x27;t even see how many unread items I have in my inbox (I have 2 at the moment for reference):&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/OKxFJK18.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/OKxFJK18.png&quot; alt=&quot;Image of top bar again, showing the inbox isn&#x27;t visible by default&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;How can I hide the button, or at least put it somewhere that doesn&#x27;t have a significant impact on the use of the site?&lt;/p&gt;&#xA;&lt;p&gt;For reference, I am opted out of experiments (something I would say the Beta is), yet it&#x27;s still visible.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438259</id>
+        <re:rank scheme="https://meta.stackoverflow.com">159</re:rank>
+        <title type="text">Is the new Stack Overflow beta UX really useful? What is the purpose of these changes?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="design" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="comments" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="user-experience" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>chqrlie</name>
+            <uri>https://meta.stackoverflow.com/users/4593267</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438259/is-the-new-stack-overflow-beta-ux-really-useful-what-is-the-purpose-of-these-ch" />
+        <published>2026-02-24T21:12:53Z</published>
+        <updated>2026-02-26T20:39:56Z</updated>
+        <summary type="html">
+            &lt;p&gt;I just tried &lt;a href=&quot;https://beta.stackoverflow.com&quot;&gt;the Stack Overflow beta&lt;/a&gt;. This new UX has some obvious and less obvious changes. Here is a tentative list with my personal feedback:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E;&#x1F44E; less color&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E; no visible separation for the top banner&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E;&#x1F44E; no score info for the OP or the contributors: requires a click on the avatar icon&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E; different icons for shortcuts to inbox and achievements&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E; no margins&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E; question info appears above title: author, time, tags... this info is not as useful as the question score.&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E; question score is smaller and hidden below the question&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E;&#x1F44E; no access to the count of up and down votes&lt;/li&gt;&#xA;&lt;li&gt;the question timeline is hiding in a new place: behind the &lt;em&gt;asked xxx days ago&lt;/em&gt; link&lt;/li&gt;&#xA;&lt;li&gt;bold font for the question title (why not, but more vertical space wasted)&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E;&#x1F44E; there is no option to bookmark/save the post and any of its answers&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E; answer author is above answer but score is below, same as for the question, but this creates confusion as answers are not clearly separated from each other.&lt;/li&gt;&#xA;&lt;li&gt;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E;&#x1F44E; larger font for comments, no clear separation between answers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Is this last point a design choice? It makes comments much more prominent to the point where they occupy more vertical space than answers. They are actually indistinguishable from answers. Comments are not more important than answers, they are the place where people make suggestions regarding answers so they can be improved. Threading was already a step in the wrong direction, wasting vertical space for little value, but promoting the font size makes things even worse and blurring answers and comments in a single flow of text creates confusion for readers and defeats the purpose.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What problem are these changes trying to solve?&lt;/strong&gt; The site is less and less appealing to contributors, and many seem to leave... I&#x27;m afraid this is only going to fuel this trend.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438258</id>
+        <re:rank scheme="https://meta.stackoverflow.com">4</re:rank>
+        <title type="text">Beta claims sharing links are copied to clipboard even if they aren&#x27;t</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-declined" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Karl Knechtel</name>
+            <uri>https://meta.stackoverflow.com/users/523612</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438258/beta-claims-sharing-links-are-copied-to-clipboard-even-if-they-arent" />
+        <published>2026-02-24T20:43:18Z</published>
+        <updated>2026-02-25T17:18:39Z</updated>
+        <summary type="html">
+            &lt;p&gt;I have my browser configured (intentionally) in such a way that JavaScript to copy onto the clipboard does not work. When I try to use the &amp;quot;copy&amp;quot; buttons on source code (in either the main site or beta), nothing is actually copied, as I&#x27;d expect. Similarly for &amp;quot;Copy link&amp;quot; in the main site &amp;quot;Share&amp;quot; interface, and the &amp;quot;Share&amp;quot; links below answers and comments in the beta.&lt;/p&gt;&#xA;&lt;p&gt;However, on the main site the error is at least detected in the &amp;quot;Share&amp;quot; interface. I get a red banner at the top of the window reading &amp;quot;Could not copy link to clipboard.&amp;quot;. But in the beta, I am incorrectly told &amp;quot;Link copied to clipboard&amp;quot; with a check-mark icon in a green banner.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438177</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-432</re:rank>
+        <title type="text">New site design and philosophy for Stack Overflow: Starting February 24, 2026 at beta.stackoverflow.com</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="company-update" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="featured" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="design" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="redesign-2026" />
+        <author>
+            <name>Hoid</name>
+            <uri>https://meta.stackoverflow.com/users/16680213</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438177/new-site-design-and-philosophy-for-stack-overflow-starting-february-24-2026-at" />
+        <published>2026-02-18T16:16:31Z</published>
+        <updated>2026-02-28T13:24:32Z</updated>
+        <summary type="html">
+            &lt;h2&gt;Update February 26th,2026&lt;/h2&gt;&#xA;&lt;p&gt;As was mentioned on February 20th, &lt;a href=&quot;https://meta.stackoverflow.com/questions/438336/what-s-next-for-curation&quot;&gt;we have another post covering more of our thinking and plans on how we are going about improving question closure&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2&gt;Update February 24th, 2026&lt;/h2&gt;&#xA;&lt;p&gt;The new Stack Overflow beta experience is now available. Users can visit the beta site directly at &lt;a href=&quot;https://beta.stackoverflow.com/&quot;&gt;https://beta.stackoverflow.com/&lt;/a&gt; or by clicking the &amp;quot;Try new site (beta)&amp;quot; toggle on stackoverflow.com.&lt;/p&gt;&#xA;&lt;p&gt;We are currently in the process of rolling out and troubleshooting certain issues with the beta. Additionally, we wanted to proactively communicate the features not yet accessible on &lt;a href=&quot;https://beta.stackoverflow.com/&quot;&gt;https://beta.stackoverflow.com/&lt;/a&gt;. As we continue to make updates to the beta site, please use the classic site to access these features:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Viewing comments on a question, or adding a comment on a question&lt;/li&gt;&#xA;&lt;li&gt;Editing posts&lt;/li&gt;&#xA;&lt;li&gt;General purpose moderation tooling&lt;/li&gt;&#xA;&lt;li&gt;Changing your vote on a post (except for the default Troubleshooting / Debugging type questions)&lt;/li&gt;&#xA;&lt;li&gt;Viewing most post notices&lt;/li&gt;&#xA;&lt;li&gt;Real time notifications without reloading the page (updates on a post, inbox notifications, etc.)&lt;/li&gt;&#xA;&lt;li&gt;Changing the list of one&#x27;s Communities in left navigation menu&lt;/li&gt;&#xA;&lt;li&gt;Certain actions on a post like Follow, Save, Start a bounty, etc.&lt;/li&gt;&#xA;&lt;li&gt;Staging Ground&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2&gt;Update February 20th, 2026&lt;/h2&gt;&#xA;&lt;p&gt;We&#x2019;d like to clarify the announcement that review queues and question closure will not be going away for the time being. We do believe that curation is important. It has been central to what makes Stack Overflow valuable. Removing all review queues or curation altogether is not the direction we currently plan to go. We also want to have more flexibility in the content we allow and make our experience more welcoming. We do believe that there&#x27;s room for improvement on how site curation is implemented and plan to work more collaboratively with the community on the best way forward. You can expect to hear more from us by February 26th, 2026 to learn more.&lt;/p&gt;&#xA;&lt;p&gt;As we roll out the beta, we&#x27;ll continue to add in features. The review queues and question closure will not be a part of the initial release, but will be included in the scope of the overall redesign and will be incorporated as the beta graduates to general availability.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Last July, we announced &lt;a href=&quot;https://meta.stackexchange.com/questions/411312&quot;&gt;a redesign of Stack Overflow&lt;/a&gt;. In October, we shared &lt;a href=&quot;https://meta.stackexchange.com/questions/412992&quot;&gt;a first look into the upcoming design changes&lt;/a&gt; and our reasoning behind them. After several rounds of discussion with the community, we&#x2019;re happy to announce that the first stage of our redesign will soon be ready for you to try out.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Starting next week, head to beta.stackoverflow.com and try the first stage of the redesigned experience!&lt;/strong&gt; We welcome your thoughts as we shift over to our new design and brand image. Details follow.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3&gt;Three upcoming major milestones for the Stack Overflow redesign&lt;/h3&gt;&#xA;&lt;p&gt;The team has worked hard to bring you a new design for Stack Overflow, and we&#x2019;re proud and excited to be able to share it with you soon.&lt;/p&gt;&#xA;&lt;p&gt;We are breaking the release of the new design into three major milestones:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Soft beta launch:&lt;/strong&gt; Users will be able to try the site, but not all parts of the site will be built yet. We will continue to make updates, fix issues, and release updates and features on a rolling basis. During this phase, users will be able to switch between the beta site and the &#x201C;classic&#x201D; site experience. We&#x2019;ll be here soon.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Full beta launch:&lt;/strong&gt; All major features of the platform that are on our roadmap will be implemented and converted over to the new design. Shortly after the full beta launch, we will begin automatically redirecting some users to the new design as we prepare to transition fully onto the new design. We&#x2019;re targeting this release for around the end of March.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Full release:&lt;/strong&gt; Stack Overflow will switch fully onto the new design, which will be accessed directly on stackoverflow.com. After a full release, the &#x201C;classic&#x201D; site design will be decommissioned. A date for this phase has not yet been decided.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;As for when network sites might see the new design, it&#x2019;s far too early to speculate. We expect that work leading up to a release on Stack Overflow alone, as well as the work that will come after, will keep our arms full for a while to come. Network sites will probably see certain rebranding elements, such as a change in the Stack Overflow logo, in the coming weeks. Aside from these minor updates, however, we don&#x2019;t expect to update the network this year. You&#x2019;ll hear more from us once we&#x2019;re ready to begin work on a network-wide rollout.&lt;/p&gt;&#xA;&lt;h3&gt;What should users expect during the soft beta launch?&lt;/h3&gt;&#xA;&lt;p&gt;During the early period of the beta test, the new Stack Overflow design is still being built. At the time of this release, only the homepage and question pages will be using the new design. We will be actively working to convert more pages over to the new design during the beta. We want to leverage this time for constructive feedback from the community while we are still on this new path.&lt;/p&gt;&#xA;&lt;p&gt;Most pages that have not yet been converted to the new design will still be accessible through beta.stackoverflow.com; however, they will be using some of the base styles of the new design system. That means some pages may not work exactly as expected until they have been converted to the new design. This is normal and expected at this point in the process.&lt;/p&gt;&#xA;&lt;p&gt;You will also notice that not all of the tools currently available to users on Stack Overflow have been implemented in the new design. (This includes moderator workflows &#x2013; mods, please continue to use the main site for now.) We expect some of these tools to be built before full release. However, please note that we plan to retire certain curation workflows, such as close votes and most review queues, in the new design. Additionally, certain post states, such as posts with bounties, community wiki posts, or locked post states, do not yet have a way of being displayed in the new design. During the initial beta phase, posts with these states will be styled the same way as normal posts.&lt;/p&gt;&#xA;&lt;p&gt;Finally, before full beta release towards the end of March, we expect that questions in the new beta experience will be displayed in a format more similar to that of &lt;a href=&quot;https://meta.stackoverflow.com/questions/435293/opinion-based-questions-alpha-experiment-on-stack-overflow&quot;&gt;opinion-based content&lt;/a&gt; because we believe it expands how people engage with Stack Overflow and how content is created and shared. We are seeing positive engagement with this format, and we want to continue to evolve it to include accepted answers.&lt;/p&gt;&#xA;&lt;h3&gt;How to provide feedback on the Stack Overflow beta&lt;/h3&gt;&#xA;&lt;p&gt;We are open to all feedback on the new design for Stack Overflow and hope to hear from you soon. You are welcome to provide feedback here on Meta Stack Overflow. There will also be a link in the left sidebar, which says &#x201C;Help improve beta,&#x201D; that you may use to submit bug reports, feature requests, and general feedback to the company. Look for this button once you have access to the beta:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/bFNuJeUr.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/bFNuJeUr.png&quot; alt=&quot;Screenshot of the left sidebar menu with a button that is highlighted in a box that says &amp;quot;Help improve beta&amp;quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For bug reports and feature requests, please be aware that &lt;strong&gt;only the homepage and individual question pages are currently using the new design&lt;/strong&gt;. Bug reports and feature requests concerning these two pages are our highest priority during the early release. We expect issues with the new design on pages that haven&#x2019;t been fully implemented yet. That said, if you notice any serious issues on any page, we always encourage you to provide those reports as well.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;When submitting bug reports and feature requests on Meta Stack Overflow, please ask a new question and tag it with &lt;a href=&quot;/questions/tagged/redesign-2026&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;redesign-2026&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;redesign-2026&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-redesign-2026-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;redesign-2026&lt;/a&gt;&lt;/strong&gt;. Please &lt;em&gt;don&#x2019;t&lt;/em&gt; use answers on this post to report bugs or request feature changes. We do not have a way to track our responses to reports in answers over the long term - we&#x2019;re definitely going to want the ability to do that for this project. Asking a new question and tagging it appropriately helps us categorize questions and quickly respond to issues you raise. (If you forget, we&#x2019;ll still try to keep an eye out, but a little help from you will make sure these issues don&#x2019;t fall through the cracks.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Discussion and general feedback&lt;/strong&gt; is always welcome and belongs in answers on this post, in new questions, or using the feedback link on beta.stackoverflow.com mentioned above.&lt;/p&gt;&#xA;&lt;p&gt;We know it can take time to adjust to design changes, especially when the site is so integral to many people&#x2019;s workflows. Everyone has a chance to try it out now so we can put the most important work in over the next two months. We want to make sure that the classic version of Stack Overflow is still available to use until we&#x2019;re ready to move over to the new format. We look forward to your feedback soon!&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/438009</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-81</re:rank>
+        <title type="text">No, I do not believe this is the end</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="company-update" />
+        <author>
+            <name>Bella_Blue</name>
+            <uri>https://meta.stackoverflow.com/users/16707493</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/438009/no-i-do-not-believe-this-is-the-end" />
+        <published>2026-01-20T15:05:43Z</published>
+        <updated>2026-02-27T15:40:14Z</updated>
+        <summary type="html">
+            &lt;blockquote&gt;&#xA;&lt;p&gt;&#x201C;The reports of my death are greatly exaggerated.&amp;quot; - Mark Twain&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;We all have seen the &lt;a href=&quot;https://meta.stackoverflow.com/questions/437921&quot;&gt;graph&lt;/a&gt; that is making the rounds. The &lt;a href=&quot;https://meta.stackoverflow.com/questions/433864&quot;&gt;question&lt;/a&gt; posed. The assumptions made. I have seen the speculation. Many have weighed in, offering their takes, their conclusions. But now I&#x2019;d like to offer my perspective,  one that is shaped from a place that is both deeply personal and uniquely informed.&lt;/p&gt;&#xA;&lt;p&gt;No, I don&#x2019;t believe this is the end.&lt;/p&gt;&#xA;&lt;p&gt;It&#x2019;s a moment. To pause, to reflect, and to remember why this place exists in the first place. It&#x2019;s an intake of breath before the first step. It&#x2019;s a chance. A precipice. An opportunity to rebuild, but not just for the sake of survival, but because what has been built here matters. Because Stack Overflow remains something rare. It&#x2019;s human. It&#x2019;s messy. And it&#x2019;s beautiful.&lt;/p&gt;&#xA;&lt;p&gt;This isn&#x2019;t just a website. It&#x2019;s a community. A place where people come together not just to solve problems, but to share what they&#x2019;ve learned, to connect, to help each other grow. It&#x2019;s imperfect, sure. People disagree, mistakes are made, and sometimes it&#x2019;s not as smooth as we&#x2019;d like it to be. But that&#x2019;s what makes it real.&lt;/p&gt;&#xA;&lt;p&gt;That&#x2019;s not something you find everywhere. It&#x2019;s not something you can replicate with a machine. Because it&#x2019;s driven by something machines don&#x2019;t have: empathy, curiosity, and the willingness to help a stranger.&lt;/p&gt;&#xA;&lt;p&gt;I know things aren&#x2019;t perfect right now. The once-unrelenting tidal wave of knowledge sharing has slowed to a trickle, and it feels like the world is moving faster than ever, leaving places like this behind. But I don&#x2019;t see this as the end. I see it as a turning point. A chance to reflect on what&#x2019;s been built here over the last 17 years - a place that&#x2019;s survived on one simple, powerful idea: that knowledge should be shared freely, and that human connection is at the heart of learning. That mission hasn&#x2019;t changed. And it&#x2019;s still just as important today as it was when this all began.&lt;/p&gt;&#xA;&lt;p&gt;We&#x2019;ve all been there, those first uncertain steps of discovery or the frustration of problem-solving when the sheer volume of information leaves you unsure of which path to take. This place serves as a lighthouse in those moments of uncertainty, a guiding hand when you&#x2019;re reaching out in the dark. Here, unlike anywhere else, seekers are never truly alone. It&#x2019;s about the person on the other side of the screen. Someone who&#x2019;s walked the same path, faced the same challenges, and is willing to share their hard-earned wisdom. That connection isn&#x2019;t just valuable; it&#x2019;s irreplaceable.&lt;/p&gt;&#xA;&lt;p&gt;So no, I don&#x27;t see this moment as the end, but the possibility of what could be. A chance to take everything we&#x2019;ve learned - the good, the bad, and the messy - and use it to move forward. To double down on what makes Stack Overflow unique. To remember that this isn&#x2019;t just a website. It&#x2019;s a community. A place where people come not just to solve problems, but to connect. To collaborate. To build something bigger than themselves.&lt;/p&gt;&#xA;&lt;p&gt;This is our chance to create something new. To embrace a fresh start, a bold reimagining, driven by the same enduring mission. To take the lessons of the past and shape a brighter future. A future where the community not only survives but thrives. A place that is stronger and more resilient than before. This is a moment to rebuild and to reimagine what this place could be. Not just for those who are here now, but for those who come after, seeking the same light, the same guidance, the same connection. This is the time to create something extraordinary. A space that continues to inspire, and in a world increasingly driven by automation, reminds everyone what humans can achieve when they come together.&lt;/p&gt;&#xA;&lt;p&gt;And that&#x2019;s why this matters. This place serves as a reminder of what it means to be human. It&#x2019;s not always easy, and it&#x2019;s not always perfect, but it&#x2019;s real. And that&#x2019;s why I&#x2019;m not giving up. I still believe. Because what happens here matters. It matters to the people who come here looking for answers, and it matters to the people who stay to share them. This place is a testament to the power of human connection, and that&#x2019;s something worth fighting for. That&#x2019;s something worth believing in.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/435121</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-136</re:rank>
+        <title type="text">Exploring new types of questions on Stack Overflow</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="company-update" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="opinion-based" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="open-ended-questions" />
+        <author>
+            <name>Hoid</name>
+            <uri>https://meta.stackoverflow.com/users/16680213</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/435121/exploring-new-types-of-questions-on-stack-overflow" />
+        <published>2025-10-02T15:45:00Z</published>
+        <updated>2026-02-26T20:31:26Z</updated>
+        <summary type="html">
+            &lt;p&gt;This quarter, the Community Enablement team is focused on researching the asking experience. This research has led the team to consider the types of questions allowed on Stack Overflow and how to expand the process to accommodate more types of questions. Over the next few months, one of our key focuses will be centered on finding a home for a wider range of technical questions on Stack Overflow.  We&#x27;ve observed that many valuable questions are closed as &#x27;opinion-based&#x27; because they don&#x27;t fit our traditional format for objective Q&amp;amp;A. While this strict format is the foundation of our site&#x27;s quality, it also means our library of knowledge has lost out on crucial technical discussions. Our goal, as a company, is to find a way to welcome more extensive questions while maintaining the high quality our community expects. &lt;a href=&quot;https://meta.stackexchange.com/q/411578/1046749&quot;&gt;Back in July, we talked about this a little bit on Meta Stack Exchange&lt;/a&gt; and the &lt;a href=&quot;https://stackoverflow.blog/2025/07/21/community-products-roadmap-update-july-2025/?_ga=2.241902978.1601096490.1757905214-370529267.1727792709:&quot;&gt;Stack Overflow Blog&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Simplified posting experience: We&#x27;re exploring simplifying the process&#xA;of asking questions on Stack Overflow, so that any technical question&#xA;has a place and can find an answer. Our goal is to make it easier for&#xA;all technologists to share their knowledge gaps, no matter how&#xA;specific or broad the problem, while maintaining the quality of&#xA;traditional Q&amp;amp;A. This means welcoming a wider range of questions and&#xA;perspectives, ensuring Stack Overflow continues to be a comprehensive&#xA;and supportive resource as technology evolves. We believe this will&#xA;diversify the knowledge available on the platform and make it even&#xA;more valuable for everyone.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;In our upcoming experiments, we will explore allowing well-reasoned, opinion-based questions to sit alongside our traditional Q&amp;amp;A. This effort is to simplify how more users want to ask and answer questions that have not typically been allowed. This isn&#x2019;t an attempt to diminish the valuable and high-quality questions and answers we have, but to expand the knowledge base for more types of content to exist alongside it. To be explicitly clear, here are some things we, as a company, are trying to do:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;We will not tie these new question types to reputation or privilege-earning opportunities. We are open to considering a new incentive system for them.&lt;/li&gt;&#xA;&lt;li&gt;Users will not be forced to see this content; community members will have the option to filter their feeds to their liking. Or opt out of opinion-based content entirely.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In addition, here are some commitments we&#x2019;re making prior to moving forward with this initiative:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;We will work with the &lt;a href=&quot;https://charcoal-se.org&quot; rel=&quot;nofollow noreferrer&quot;&gt;Charcoal&lt;/a&gt; team to make sure that all of these questions are exposed to their tools to help prevent spam. We&#x2019;ve learned from our experiences with the Discussions project.&lt;/li&gt;&#xA;&lt;li&gt;We will work with moderators to ensure that the appropriate moderation tools are available to moderate new question types if this becomes a permanent change.&lt;/li&gt;&#xA;&lt;li&gt;We are focused on attracting any quality technical questions; we do not intend to attract generic homework questions, or frivolous conversations&lt;/li&gt;&#xA;&lt;li&gt;We do not want to become a generic homework help desk.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&#x27;d like to leave you with a few discussion prompts to consider, thinking about how you would like to see something like this come to life.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What kind of tools would you like to see that allow you to curate your question feeds to include only the content types you are interested in?&lt;/li&gt;&#xA;&lt;li&gt;Opinion-based content allows for a considerable amount of room in defining what makes a good question. What guidelines would you like community members to see when asking these types of questions?&lt;/li&gt;&#xA;&lt;li&gt;We don&#x2019;t believe that reputation as structured today is the correct incentive for addressing these types of questions. How should quality discussion-oriented content be rewarded or incentivized?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We&#x27;ll be back very soon with more details on how we might alpha test this. &lt;strong&gt;We will be monitoring this post for questions till October 16th, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/421831</id>
+        <re:rank scheme="https://meta.stackoverflow.com">5435</re:rank>
+        <title type="text">Policy: Generative AI (e.g., ChatGPT) is banned</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="featured" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="announcement" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="rules" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="ai-generated-content" />
+        <author>
+            <name>Makyen</name>
+            <uri>https://meta.stackoverflow.com/users/3773011</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned" />
+        <published>2022-12-05T05:34:36Z</published>
+        <updated>2026-02-26T07:58:38Z</updated>
+        <summary type="html">
+            &lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Moderator Note:&lt;/strong&gt; This post has been locked to prevent comments because people have been using them for protracted debate and discussion (we&#x27;ve deleted over 300 comments on this post alone, not even including its answers).&lt;/p&gt;&#xA;&lt;p&gt;The comment lock is not meant to suppress discussion or prevent users from expressing their opinions. You are (as always) encouraged to vote on this post to express your agreement/disagreement. If you want to discuss this policy further, or suggest other related changes, please &lt;a href=&quot;https://meta.stackoverflow.com/questions/ask&quot;&gt;Ask a New Question&lt;/a&gt; and use the &lt;a href=&quot;/questions/tagged/ai-generated-content&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;ai-generated-content&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;ai-generated-content&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-ai-generated-content-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;ai-generated-content&lt;/a&gt; tag.&lt;/p&gt;&#xA;&lt;p&gt;This question remains &lt;a href=&quot;/questions/tagged/featured&quot; class=&quot;s-tag post-tag s-tag__moderator moderator-tag&quot; title=&quot;show questions tagged &amp;#39;featured&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;featured&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-featured-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;featured&lt;/a&gt; because that is still the best, most prominent, and only &lt;em&gt;permanent&lt;/em&gt; way that we have to announce this policy site-wide.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2&gt;&lt;em&gt;All&lt;/em&gt; use of generative AI (e.g., &lt;a href=&quot;https://openai.com/blog/chatgpt/&quot; rel=&quot;nofollow noreferrer&quot;&gt;ChatGPT&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt; and other LLMs) is banned when posting content on Stack Overflow.&lt;/h2&gt;&#xA;&lt;h3&gt;This includes &amp;quot;asking&amp;quot; the question to an AI generator then copy-pasting its output &lt;em&gt;as well as&lt;/em&gt; using an AI generator to &amp;quot;reword&amp;quot; your answers.&lt;/h3&gt;&#xA;&lt;h3&gt;Please see the Help Center article: &lt;a href=&quot;https://stackoverflow.com/help/ai-policy&quot;&gt;What is this site&#x2019;s policy on content generated by generative artificial intelligence tools?&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Overall, because the average rate of getting &lt;em&gt;correct&lt;/em&gt; answers from ChatGPT and other generative AI technologies is too low, &lt;strong&gt;the posting of content created by ChatGPT and other generative AI technologies is &lt;em&gt;substantially harmful&lt;/em&gt; to the site and to users who are asking questions and looking for &lt;em&gt;correct&lt;/em&gt; answers.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The primary problem is that while the answers which ChatGPT and other generative AI technologies produce have a high rate of being incorrect, they typically &lt;em&gt;look like&lt;/em&gt; the answers &lt;em&gt;might&lt;/em&gt; be good and the answers are &lt;em&gt;very&lt;/em&gt; easy to produce. There are also many people trying out ChatGPT and other generative AI technologies to create answers, without the expertise or willingness to verify that the answer is correct prior to posting. Because such answers are so easy to produce, a large number of people are posting a &lt;em&gt;lot&lt;/em&gt; of answers. The volume of these answers (thousands) and the fact that the answers often require a detailed read by someone with significant subject matter expertise in order to determine that the answer is actually bad has effectively swamped our volunteer-based quality curation infrastructure.&lt;/p&gt;&#xA;&lt;p&gt;As such, we need to reduce the volume of these posts and we need to be able to deal with the ones which are posted quickly, which means dealing with users, rather than individual posts.&lt;/p&gt;&#xA;&lt;p&gt;So, the use of ChatGPT or other generative AI technologies to create posts or other content here on Stack Overflow is not permitted. If a user is believed to have used ChatGPT or other generative AI technologies after the posting of this policy, sanctions will be imposed to prevent them from continuing to post such content, even if the posts would otherwise be acceptable.&lt;/p&gt;&#xA;&lt;p&gt;NOTE: While the above text focuses on answers, because that&#x27;s where we&#x27;re experiencing the largest volume of such content, the ban applies to all content on Stack Overflow, except each user&#x27;s profile content (e.g., your &amp;quot;About me&amp;quot; text).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4&gt;Historical context of this ban originally being &amp;quot;temporary&amp;quot;&lt;/h4&gt;&#xA;&lt;p&gt;When this ban was originally posted on 2022-12-05, it was explicitly stated as a &amp;quot;Temporary policy&amp;quot;. It was specifically &amp;quot;temporary&amp;quot;, because it was, at that time, a policy which was being imposed by the subset of moderators who were present on the site over the weekend after the announcement of ChatGPT&#x27;s public release, 2022-11-30, through the Monday, 2022-12-05, when this question was posted. The moderators involved strongly felt that we didn&#x27;t have the right to impose a permanent policy in this manner upon the site, but did have a responsibility to impose a temporary policy that was necessary in order for the site to remain functioning while discussion was had, consensus reached, and also allowed Stack Overflow, the company, time to have internal discussions to see what policies they would adopt network wide. So, after consultation with the company, the moderators present at that time chose to implement this as a &amp;quot;temporary&amp;quot; policy.&lt;/p&gt;&#xA;&lt;p&gt;Since then, quite a lot has happened. Based on the voting for this question, it&#x27;s clear that there&#x27;s an overwhelming consensus for this policy. The company &lt;a href=&quot;https://meta.stackexchange.com/questions/384396/ban-chatgpt-network-wide/385002#385002&quot;&gt;has chosen that the specific policy on AI-generated content will be up to individual sites&lt;/a&gt; (&lt;a href=&quot;https://meta.stackexchange.com/questions/384922/is-there-a-list-of-chatgpt-or-other-ai-related-discussions-and-policies-for-our&quot;&gt;list of per-site policies&lt;/a&gt;), but that even on sites which permit AI-generated content, such &lt;a href=&quot;https://meta.stackexchange.com/questions/384647/is-attribution-required-for-machine-generated-text-when-posting-on-stack-exchang/384648#384648&quot;&gt;AI-generated content is considered &amp;quot;not your own work&amp;quot;&lt;/a&gt; and must follow the &lt;a href=&quot;/help/referencing&quot;&gt;referencing requirements&lt;/a&gt;. The requirement for following the referencing requirements was, later, put into the &lt;a href=&quot;/conduct/inauthentic-usage&quot;&gt;Code of Conduct: Inauthentic usage policy&lt;/a&gt;. There&#x27;s a &lt;strong&gt;lot more&lt;/strong&gt; that&#x27;s gone on with respect to AI-generated content. So much has happened such that it&#x27;s not reasonable to try to summarize all of it here.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;sup&gt;1. ChatGPT is an Artificial Intelligence based chat bot by OpenAI, which was announced on 2022-11-30. Use of ChatGPT is currently available to the public without monetary payment.&lt;/sup&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+</feed>
