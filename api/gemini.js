@@ -5,8 +5,11 @@ export default async function handler(req, res) {
 
     const { prompt } = req.body;
 
+    const gemini25flash = "gemini-2.5-flash";
+    const gemini3flash = "gemini-3-flash-preview";
+
     const response = await fetch(
-        'https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent',
+        `https://generativelanguage.googleapis.com/v1beta/models/${gemini25flash}:generateContent`,
         {
             method: 'POST',
             headers: {
