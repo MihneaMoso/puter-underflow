@@ -2259,6 +2259,7 @@ Cookie Settings        </button></li>
     
 (function() {
     // 1. On page load, read searchQuery from sessionStorage and inject into title + body
+    const USE_GEMINI = true;
     var query = sessionStorage.getItem('searchQuery');
     if (query) {
         document.title = query;
@@ -2268,20 +2269,43 @@ Cookie Settings        </button></li>
         }
         // Update the question title
         const prompt = `You are a professional Linux and Bash Systems Engineer and sysadmin, with vast knowledge of bash and advanced utilities like sed, awk, and git. Answer the following question from a fellow junior engineer that wants to become as skilled as you, and try to use basic linux and bash utilities more when answering: ${query}`;
-        puter.ai.chat(
-            prompt,
-            { model: "gpt-5.2" }
-        ).then(response => {
-            
-            // Update the first paragraph in the question body
-            var bodyEl = document.querySelector('.s-prose.js-post-body');
-            if (bodyEl) {
-                var firstP = bodyEl.querySelector('p');
-                if (firstP) {
-                    firstP.textContent = response;
+        if (!USE_GEMINI) {
+
+            puter.ai.chat(
+                prompt,
+                { model: "gpt-5.2" }
+            ).then(response => {
+                
+                // Update the first paragraph in the question body
+                var bodyEl = document.querySelector('.s-prose.js-post-body');
+                if (bodyEl) {
+                    var firstP = bodyEl.querySelector('p');
+                    if (firstP) {
+                        firstP.textContent = response;
+                    }
                 }
-            }
-            });
+                });
+        } 
+        else {
+            const modelName = "gemini-2.5-flash";
+           fetch('/api/gemini', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ prompt: prompt })
+                }).then(response => response.json())
+                .then(response => {
+                    // Update the first paragraph in the question body
+                    let llmresponse = response.candidates[0].content.parts[0].text;
+                    var bodyEl = document.querySelector('.s-prose.js-post-body');
+                    if (bodyEl) {
+                        var firstP = bodyEl.querySelector('p');
+                        if (firstP) {
+                            firstP.textContent = llmresponse;
+                        }
+                    }
+                });
+                
+        }
         
     }
 

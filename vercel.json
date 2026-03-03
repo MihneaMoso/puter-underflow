@@ -1,3 +1,6 @@
 {
-  "outputDirectory": "stackoverflow.com"
+  "outputDirectory": "stackoverflow.com",
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "/api/:path*" }
+  ]
 }
