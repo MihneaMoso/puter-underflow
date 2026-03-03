@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+.env.local
+
+node_modules
+.vercel
+.env*.local
