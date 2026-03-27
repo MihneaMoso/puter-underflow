@@ -2268,7 +2268,8 @@ Cookie Settings        </button></li>
             titleEl.textContent = query;
         }
         // Update the question title
-        const prompt = `You are a professional Linux and Bash Systems Engineer and sysadmin, with vast knowledge of bash and advanced utilities like sed, awk, and git. Answer the following question from a fellow junior engineer that wants to become as skilled as you, and try to use basic linux and bash utilities more when answering: ${query}`;
+        const prompt = `You are a professional Linux and Bash Systems Engineer and sysadmin, with vast knowledge of bash and advanced utilities like sed, awk, and git. Answer the following question from a fellow junior engineer that wants to become as skilled as you, and try to use basic linux and bash utilities more when answering. Also, don't create scripts or commands that are overly complex, try to solve the user's request in a single, efficient command (you can use as many pipes as you wish) and in the end try to make a final command that combines every part of the solve into a single command. Without further ado, here is the user's request: ${query}`;
+
         if (!USE_GEMINI) {
 
             puter.ai.chat(
