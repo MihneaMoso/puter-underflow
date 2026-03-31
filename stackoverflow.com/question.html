@@ -308,7 +308,7 @@
                                    placeholder="Search&#x2026;"
                                    value=""
                                    autocomplete="off"
-                                   maxlength="240"
+                                   maxlength="4096"
                                    class="s-input s-input__search js-search-field wmn1 "
                                    aria-label="Search"
                                    aria-controls="top-search" 
@@ -2289,7 +2289,7 @@ Cookie Settings        </button></li>
         } 
         else {
            
-           fetch('/api/gemini', {
+           fetch('/api/groq', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ prompt: prompt })
